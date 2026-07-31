@@ -87,9 +87,3 @@ These filters enable users to analyze charging network performance dynamically.
 ## 📌 Conclusion
 
 This Excel dashboard provides an interactive overview of EV charging station performance by analyzing revenue, energy consumption, charging sessions, vehicle types, payment methods, and peak charging hours. The insights generated from this dashboard support better operational planning and business decision-making.
-
----
-
-👨‍💻 **Author:** **Sasikumar**
-
-⭐ If you found this project useful, consider giving this repository a star.
