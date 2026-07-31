@@ -96,7 +96,7 @@ _Dashboard
 ```
 PowerBI/
 │
-├── EV_Charging_Network_Analytics.pbix
+├── EV_Charging_Station.pbix
 └── README.md
 ```
 
